@@ -1,3 +1,1 @@
-# tic-tac-toe game
-
-## Favorite one liners I wrote
+# notes to remember key foundations. Topics include: (Cybersecurity, Cloud, DevOps, Front-End)
