@@ -1,1 +1,1 @@
-# Notes to remember key foundations. Topics include: (Cybersecurity, Cloud, DevOps, Front-End)
+# Notes to remember key topics. Topics include: (Cybersecurity, Cloud, DevOps, Front-End)
