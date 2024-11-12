@@ -1,6 +1,6 @@
 • [Key Words](https://github.com/cyberjalen/my-notes/blob/main/smaller%20sections/keywords%20aws%20cloud.md)
 
-## AWS Well-Architected Framework 
+## AWS Well-Architected Framework (CORPSS)
 
 1. Cost Optimization 
 2. Operational Excellence 
