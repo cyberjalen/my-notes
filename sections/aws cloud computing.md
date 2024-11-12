@@ -1,4 +1,4 @@
-• [Key Words](https://github.com/cyberjalen/my-notes/blob/main/smaller%20sections/keywords%20aws%20cloud.md)
+• [Key Words](https://github.com/cyberjalen/my-notes/blob/b3da4d0c11e4d9ec26743d67ec6db0c71dbfb178/smaller%20sections/keywords%20aws%20cloud.md)
 
 ## AWS Well-Architected Framework (CORPSS)
 
