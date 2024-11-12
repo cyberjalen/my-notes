@@ -1,6 +1,6 @@
 # Key Words 
 
-### **Decoupled Application**: Allows each component to perform its tasks independently. 
+### **Decoupling**: Provides asynchronous communication between microservices by using an asynchronous poll mode
 
 
 ### **Elasticity**: Automatically provisioning the required AWS resources based on changes in demand. 
