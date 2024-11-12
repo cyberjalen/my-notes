@@ -1,1 +1,1 @@
-• [Cloud Practitioner
+• [Cloud Practitioner](https://github.com/cyberjalen/my-notes/blob/main/aws%20cloud%20computing%20section/keywords.md)
