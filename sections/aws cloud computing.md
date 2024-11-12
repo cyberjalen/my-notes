@@ -1,4 +1,4 @@
-• [Key Words](https://github.com/cyberjalen/my-notes/blob/main/smaller%20sections/keywords.md)
+• [Key Words](https://github.com/cyberjalen/my-notes/blob/main/smaller%20sections/keywords%20aws%20cloud.md)
 
 ## AWS Well-Architected Framework 
 
