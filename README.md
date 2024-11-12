@@ -1,4 +1,4 @@
-# Notes to remember (commands, short cuts, and key terms). Topics include: (Cybersecurity, Cloud, DevOps, Digital Forensics)
+# Notes to remember (commands, short cuts, and key terms). 
 
 • [Networking](https://github.com/cyberjalen/my-notes/blob/main/sections/networking.md)
 
