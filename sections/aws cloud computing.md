@@ -1,4 +1,4 @@
-• [Cloud Practitioner](https://github.com/cyberjalen/my-notes/blob/main/aws%20cloud%20computing%20section/keywords.md)
+• [Key Words](https://github.com/cyberjalen/my-notes/blob/main/smaller%20sections/keywords.md)
 
 ## AWS Well-Architected Framework 
 
